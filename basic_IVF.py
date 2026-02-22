@@ -1,5 +1,6 @@
 ##
 # Implement an IVF (Inverted File) based search engine using K-Means for space partitioning
+# install necessary libraries: numpy, sklearn
 ##
 
 import numpy as np
